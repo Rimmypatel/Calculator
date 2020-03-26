@@ -1,0 +1,9 @@
+C:\Users\mr.shivaholic\source\repos\cal-c rrjs\bin\Debug\cal-c rrjs.exe.config
+C:\Users\mr.shivaholic\source\repos\cal-c rrjs\bin\Debug\cal-c rrjs.exe
+C:\Users\mr.shivaholic\source\repos\cal-c rrjs\bin\Debug\cal-c rrjs.pdb
+C:\Users\mr.shivaholic\source\repos\cal-c rrjs\obj\Debug\cal-c rrjs.csprojAssemblyReference.cache
+C:\Users\mr.shivaholic\source\repos\cal-c rrjs\obj\Debug\cal_c_rrjs.Form1.resources
+C:\Users\mr.shivaholic\source\repos\cal-c rrjs\obj\Debug\cal_c_rrjs.Properties.Resources.resources
+C:\Users\mr.shivaholic\source\repos\cal-c rrjs\obj\Debug\cal-c rrjs.csproj.GenerateResource.cache
+C:\Users\mr.shivaholic\source\repos\cal-c rrjs\obj\Debug\cal-c rrjs.exe
+C:\Users\mr.shivaholic\source\repos\cal-c rrjs\obj\Debug\cal-c rrjs.pdb
